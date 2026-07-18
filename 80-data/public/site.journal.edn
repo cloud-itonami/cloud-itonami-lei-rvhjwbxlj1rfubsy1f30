@@ -1,0 +1,5 @@
+[["the-site-1" :site/url "https://www.boeing.com" 1 :add]
+ ["the-site-1" :site/checked-at "2026-07-18" 1 :add]
+ ["the-site-1" :site/http-status 200 1 :add]
+ ["the-site-1" :site/title "The Boeing Company Official Website" 1 :add]
+ ["the-site-1" :site/description "Discover news and information about The Boeing Company, a leading global aerospace company that develops, manufactures and services commercial airplanes, defense products and space systems." 1 :add]]
